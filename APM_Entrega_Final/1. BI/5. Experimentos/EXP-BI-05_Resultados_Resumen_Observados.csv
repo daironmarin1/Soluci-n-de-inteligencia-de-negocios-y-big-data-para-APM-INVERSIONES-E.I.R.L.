@@ -1,3 +1,0 @@
-Metodo,Filas_de_entrada,Total_pruebas,Promedio_ms,Minimo_ms,Maximo_ms
-Sin preagregacion,355550,5,114.380,111.483,117.508
-Con preagregacion,828,5,0.812,0.000,1.036
