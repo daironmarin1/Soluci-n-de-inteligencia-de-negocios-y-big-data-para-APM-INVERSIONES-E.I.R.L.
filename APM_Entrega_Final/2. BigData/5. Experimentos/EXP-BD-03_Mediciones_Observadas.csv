@@ -1,0 +1,11 @@
+﻿Prueba,Configuracion,Tiempo_ms,Registros
+1,1 particion,549.382,497770
+1,8 particiones,702.514,497770
+2,1 particion,577.703,497770
+2,8 particiones,663.715,497770
+3,1 particion,577.908,497770
+3,8 particiones,659.063,497770
+4,1 particion,524.096,497770
+4,8 particiones,640.012,497770
+5,1 particion,571.928,497770
+5,8 particiones,624.936,497770
