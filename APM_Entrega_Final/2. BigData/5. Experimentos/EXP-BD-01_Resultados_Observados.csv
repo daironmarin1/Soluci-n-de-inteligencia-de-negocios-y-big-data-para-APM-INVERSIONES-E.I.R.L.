@@ -1,0 +1,3 @@
+Etapa,Total_Registros,Registros_Con_Error,Origen
+Antes,7114,3,Datos_sinteticos_de_prueba
+Despues,7111,0,Datos_sinteticos_filtrados
